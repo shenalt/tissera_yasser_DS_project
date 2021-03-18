@@ -5,7 +5,7 @@ Movie Suggestor / Critics vs. User Review Scores
     - Classifiying movies based on audience score vs critic score, genre, in order to suggest movies to users who want a movie suggestion
 
 Why
-- If you are reading this, you probably love movies and there are probably some movies you love that might not be loved by the critics. Or you are looking for a movie to watch and you are duped into thinking you are about to watch a great movie because rotten tomatoes tells you it's certified fresh but you're half asleep twenty minutes in. Whatever the case may be, ratings affect the way you make decisions to watch this movie over another movie and we think having this information available to you might help you make a better decision about how to spend your valuable time watching a movie. 
+- If you are reading this, you probably love movies and there are probably some movies you love that might not be loved by the critics. Or you are looking for a movie to watch and you are duped into thinking you are about to watch a great movie because rotten tomatoes tells you it's certified fresh but you're half asleep twenty minutes in. Whatever the case may be, ratings affect the way you make decisions to watch one movie over another movie and we think having this information available to you might help you make a better decision about how to spend your valuable time watching a movie. 
 
 Functionality 
 1. User will type in a movie that hopefully exists in the database, output will be the movie title, poster, description, genre, and most importantly, whether critics and viewers differed or agreed in their rating of the movie. 
