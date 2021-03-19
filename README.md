@@ -19,4 +19,5 @@ Resources
 2. http://www.omdbapi.com/
 3. http://rstudio-pubs-static.s3.amazonaws.com/336722_2193716117584b63a2a6ebb837217d85.html#imdb-rotten-tomatoes-datasets-from-ocdf
 4. https://www.kaggle.com/netflix-inc/netflix-prize-data?select=combined_data_1.txt
+    - Movie Recommendation Dataset
 5. Web scraping audience scores from RT and Metacritic 
