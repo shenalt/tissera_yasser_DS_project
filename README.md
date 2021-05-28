@@ -1,5 +1,7 @@
 # tissera_yasser_DS_project
 Stroke Predictor
+Heroku App - https://the-stroke-predictor.herokuapp.com/
+
 - Project Type: Classification 
     - Classifiying people based on whether they had a stroke or not in a certain dataset. Eventually want to make a web app that can tell a person whether they are at risk for a stroke based on inputs they give us about themselves
 
